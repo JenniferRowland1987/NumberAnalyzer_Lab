@@ -1,0 +1,15 @@
+C:\Users\jenni\source\repos\NumberAnalyzer_Lab\NumberAnalyzer_Lab\bin\Debug\net6.0\NumberAnalyzer_Lab.exe
+C:\Users\jenni\source\repos\NumberAnalyzer_Lab\NumberAnalyzer_Lab\bin\Debug\net6.0\NumberAnalyzer_Lab.deps.json
+C:\Users\jenni\source\repos\NumberAnalyzer_Lab\NumberAnalyzer_Lab\bin\Debug\net6.0\NumberAnalyzer_Lab.runtimeconfig.json
+C:\Users\jenni\source\repos\NumberAnalyzer_Lab\NumberAnalyzer_Lab\bin\Debug\net6.0\NumberAnalyzer_Lab.dll
+C:\Users\jenni\source\repos\NumberAnalyzer_Lab\NumberAnalyzer_Lab\bin\Debug\net6.0\NumberAnalyzer_Lab.pdb
+C:\Users\jenni\source\repos\NumberAnalyzer_Lab\NumberAnalyzer_Lab\obj\Debug\net6.0\NumberAnalyzer_Lab.csproj.AssemblyReference.cache
+C:\Users\jenni\source\repos\NumberAnalyzer_Lab\NumberAnalyzer_Lab\obj\Debug\net6.0\NumberAnalyzer_Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenni\source\repos\NumberAnalyzer_Lab\NumberAnalyzer_Lab\obj\Debug\net6.0\NumberAnalyzer_Lab.AssemblyInfoInputs.cache
+C:\Users\jenni\source\repos\NumberAnalyzer_Lab\NumberAnalyzer_Lab\obj\Debug\net6.0\NumberAnalyzer_Lab.AssemblyInfo.cs
+C:\Users\jenni\source\repos\NumberAnalyzer_Lab\NumberAnalyzer_Lab\obj\Debug\net6.0\NumberAnalyzer_Lab.csproj.CoreCompileInputs.cache
+C:\Users\jenni\source\repos\NumberAnalyzer_Lab\NumberAnalyzer_Lab\obj\Debug\net6.0\NumberAnalyzer_Lab.dll
+C:\Users\jenni\source\repos\NumberAnalyzer_Lab\NumberAnalyzer_Lab\obj\Debug\net6.0\refint\NumberAnalyzer_Lab.dll
+C:\Users\jenni\source\repos\NumberAnalyzer_Lab\NumberAnalyzer_Lab\obj\Debug\net6.0\NumberAnalyzer_Lab.pdb
+C:\Users\jenni\source\repos\NumberAnalyzer_Lab\NumberAnalyzer_Lab\obj\Debug\net6.0\NumberAnalyzer_Lab.genruntimeconfig.cache
+C:\Users\jenni\source\repos\NumberAnalyzer_Lab\NumberAnalyzer_Lab\obj\Debug\net6.0\ref\NumberAnalyzer_Lab.dll
