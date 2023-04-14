@@ -1,16 +1,4 @@
-﻿//prompt the user to enter a number between 1 and 100
-
-// odd and < 60 Print $"{userNumber} is odd and less than 60"
-
-// even and between 2 and 24 Print $"{userNumber} is even and less than 25"
-
-//even and between 26= to =60, print $“{userNumber} is even and between 26 and 60 inclusive.”
-
-//even and greater than 60, print the number entered and $“{userNumber} Even and greater than 60.”
-
-//odd and greater than 60, print the number entered and $“{userNumber} Odd and greater than 60.”
-
-Console.WriteLine("Hi, welcome to the Number Analyzer! What is your name?");
+﻿Console.WriteLine("Hi, welcome to the Number Analyzer! What is your name?");
     string userName = Console.ReadLine();
 while (true)
 {
